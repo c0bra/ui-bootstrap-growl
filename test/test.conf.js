@@ -1,4 +1,4 @@
-basePath = '..';
+basePath = '../';
 
 files = [
   JASMINE,
@@ -8,7 +8,7 @@ files = [
   'components/angular/angular.js',
   'components/angular-mocks/angular-mocks.js',
   'src/bootstrap-growl.js',
-  'test/*.spec.js'
+  'test/**/*.spec.js'
 ];
 
 preprocessors = {
@@ -17,4 +17,4 @@ preprocessors = {
 
 singleRun = true;
 
-browsers = [ 'Chrome' ];
+browsers = [ 'PhantomJS' ];
