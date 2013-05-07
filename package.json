@@ -1,0 +1,20 @@
+{
+  "name": "angular-ui-bootstrap-growl",
+  "version": "0.0.1",
+  "description": "This directive allows you to add growl-like alerts with bootstrap-growl",
+  "author": "https://github.com/c0bra/ui-bootstrap-growl/graphs/contributors",
+  "license": "MIT",
+  "homepage": "http://angular-ui.github.com",
+  "main": "src/bootstrap-growl.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.2.0",
+    "grunt-karma": "~0.4.3"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/c0bra/ui-bootstrap-growl.git"
+  }
+}
